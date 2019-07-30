@@ -16,6 +16,7 @@ _The numbers shown represent the total of downloads per app on a specific platfo
 - whym
 - Shine
 - WAG - 🤖 [100k](https://play.google.com/store/apps/details?id=com.wix.android&hl=en)
+- Airbnb - 🤖 [50M](https://play.google.com/store/apps/details?id=com.airbnb.android&hl=en_IN)
 
 ### Contribute
 
