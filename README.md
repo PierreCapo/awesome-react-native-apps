@@ -10,7 +10,7 @@ _The numbers shown represent the total of downloads per app on a specific platfo
 - Walmart
 - SoundCloud
 - Townske - 🤖 [5K](https://play.google.com/store/apps/details?id=com.townske.android&hl=en)
-- Gyroscope
+- Gyroscope - 🤖 [5K](https://play.google.com/store/apps/details?id=com.gyroscope.gyroscope&hl=en)
 - Wix - 🤖 [1M](https://play.google.com/store/apps/details?id=com.wix.android&hl=en)
 - Facebook Ads Manager - 🤖 [5M](https://play.google.com/store/apps/details?id=com.facebook.adsmanager&hl=en)
 - whym
