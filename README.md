@@ -7,14 +7,11 @@ _The numbers shown represent the total of downloads per app on a specific platfo
 - Tesla - 🤖 [100k](https://play.google.com/store/apps/details?id=com.teslamotors.tesla&hl=en)
 - Skype - 🤖 [1B](https://play.google.com/store/apps/details?id=com.skype.raider&hl=en)
 - Bloomberg - 🤖 [10M](https://play.google.com/store/apps/details?id=com.bloomberg.android.plus&hl=en)
-- Walmart
-- SoundCloud
+- Walmart - 🤖 [10M](https://play.google.com/store/apps/details?id=com.walmart.android)
 - Townske - 🤖 [5K](https://play.google.com/store/apps/details?id=com.townske.android&hl=en)
 - Gyroscope - 🤖 [5K](https://play.google.com/store/apps/details?id=com.gyroscope.gyroscope&hl=en)
 - Wix - 🤖 [1M](https://play.google.com/store/apps/details?id=com.wix.android&hl=en)
 - Facebook Ads Manager - 🤖 [5M](https://play.google.com/store/apps/details?id=com.facebook.adsmanager&hl=en)
-- whym
-- Shine
 - WAG - 🤖 [100k](https://play.google.com/store/apps/details?id=com.wix.android&hl=en)
 
 ### Contribute
